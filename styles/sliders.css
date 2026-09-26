@@ -4,4 +4,10 @@ img{
     border: 9px solid gray;
     border-radius: 7px;
     box-shadow: 5px 5px 4px green;
+    margin-left: 300px;
+}
+h3{
+    color: blue;
+    background-color: red;
+    text-align: center;
 }
